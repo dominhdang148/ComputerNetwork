@@ -12,8 +12,8 @@ Số lượng host hữu dụng: 999
     Số lượng mạng còn dư sau khi chia: 1024-2-999 = 23
     Số lượng bit mượn: 6
     Vùng địa chỉ gán cho host: 180.16.0.1 --> 180.16.3.253
-    Địa chỉ Boardcast: 180.16.3.254
-    Mạng tiếp theo của mạng này: 180.16.4.0
+    Địa chỉ Boardcast: 180.16.3.254*
+    Mạng tiếp theo của mạng này: 180.16.4.0*
 
 Câu 2:
 
